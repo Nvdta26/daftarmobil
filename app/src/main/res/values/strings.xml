@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">View</string>
+    <string name="umum">Mengisi lini tengah Xpander ada varian Exceed. Ditawarkan dalam dua pilihan transmisi: manual dan otomatis. Xpander Exceed MT, menawarkan transmisi manual 5-speed sebagai padanan dari mesin 4-silinder 1,5 liter Mivec.
+        Semburan tenaga maksimal 104 PS pada 6.000 rpm dan torsi puncak 141 Nm pada 4.000 rpm. Urusan mesin semua varian Xpander sama.</string>
+    <string name="KapasitasMesin">	1499 cc </string>
+    <string name="tenaga">103 hp</string>
+    <string name="torsi">	Bensin</string>
+    <string name="konsumsi">141 Nm</string>
+    <string name="bbm">	14.8</string>
+    <string name="bensin">10.7</string>
+</resources>
